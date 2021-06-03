@@ -4,7 +4,7 @@
 
 html {
     background-color: lightgray;
-    font-family: 'Quicksand', sans-serif;
+    font-family: 'sen', sans-serif;
     font-size: 0.95em;
     line-height: 1.5em;
 }
@@ -68,7 +68,7 @@ footer {
     }
     
     picture.profile img {
-        width: 50%;
+        width: 40%;
         float: left;
         margin-right: 2em;
     }
