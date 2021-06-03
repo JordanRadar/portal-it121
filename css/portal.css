@@ -11,18 +11,19 @@ html {
 
 ::selection {
     color: #000; 
-    background: #ff0;
+    background: rgb(204, 204, 20);
 }
 
 h1 {
     font-weight: normal;
     margin: auto;
-    background: #fff;
+    color: whitesmoke;
+    background: rgb(70, 70, 70);
     line-height: 2.5em;
 }
 
 main.wrapper {
-    background-color: white;
+    background-color: rgb(207, 207, 207);
     overflow: auto;
 }
 
@@ -43,7 +44,7 @@ a {
 
 a:hover {
     color: whitesmoke;
-    background-color: darkcyan;
+    background-color: rgb(1, 95, 95);
     text-decoration: none;
 }
 
