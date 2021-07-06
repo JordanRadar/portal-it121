@@ -1,6 +1,3 @@
-# portal-it115
-An example portal page
+# portal-it121
 
-Please feel free to use the HMTL/CSS and JS in this repo as you wish!
-
-Final Page: https://jordanradar.github.io/portal-it115/
+This is the correct branch, if you're seeing this, this is correct. Note to self: merge over to master at some point!
