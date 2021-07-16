@@ -1,3 +1,3 @@
 # portal-it121
 
-THIS IS THE WRONG BRANCH FOR THE DEPLOYMENT, PLEASE CHANGE OVER AT SOME POINT!
+Deployment: https://jordanradar.github.io/portal-it121/
